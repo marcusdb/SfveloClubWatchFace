@@ -1,0 +1,14 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="150" y="center" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLUE" />
+    <bitmap id="mouth" x="15" y="50" filename="../images/logoSFvelo.png" >
+     <palette disableTransparency="false">
+            <color>999999</color>
+            <color>FFFFFF</color>
+            <color>000000</color>
+            <color>555555</color>
+            <color>4d4d4f</color>
+            <color>777777</color>
+            
+        </palette>
+    </bitmap>
+</layout>
